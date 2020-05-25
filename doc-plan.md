@@ -22,12 +22,14 @@ TODO
 
 ## Outline of Topics
 
-TODO
+- Higher level documentation of existing and future robot code
+- Lists of useful sources for various programming needs (e.g. computer vision, path following)
+- Notes and tips on how best to manage an FRC programming team
 
-## Tools & Management
+## Tools & Deliverables
 
-TODO
+The site will be hosted on GitHub Pages, owned by the [Bearbotics Organization](https://github.com/bearboticsfrc/). Changes should be available through pull requests, and approved by administrators.
 
-## Deliverables
+## Notes 
 
-TODO
+Documentation plan format and several organization methods used throughout this site are from [plan.io](https://plan.io/blog/technical-documentation)
